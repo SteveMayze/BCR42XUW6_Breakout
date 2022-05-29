@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "DisplayAdapter_DOGM128")(type "KiCad")(uri "${LOCAL_PCBS}/DisplayAdapter_DOGM128/pcb/lib/DisplayAdapter_DOGM128.kicad_sym")(options "")(descr ""))
+  (lib (name "BCR42xUW6")(type "KiCad")(uri "${LOCAL_PCBS}/BCR42XUW6_Breakout/pcb/lib/BCR42xUW6.kicad_sym")(options "")(descr ""))
+  (lib (name "mech")(type "Legacy")(uri "${MYLIB}/mech.lib")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "DisplayAdapter_DOGM128")(type "KiCad")(uri "${LOCAL_PCBS}/DisplayAdapter_DOGM128/pcb/lib/DisplayAdapter_DOGM128.pretty")(options "")(descr ""))
+  (lib (name "mech")(type "KiCad")(uri "${MYLIB}/mech.pretty")(options "")(descr ""))
+)
